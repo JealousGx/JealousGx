@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Front end web skills**
 
-- 🌱 I’m currently learning **Engineering, React**
+- 🌱 I’m currently learning **Engineering, Advanced Concepts of Fullstack Web dev**
 
-- 👯 I’m looking to collaborate on **web development for beginners**
+- 👯 I’m looking to collaborate on **web development (full stack)**
 
 - 📫 How to reach me **khiljimateenn@gmail.com**
 
