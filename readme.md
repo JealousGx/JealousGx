@@ -43,6 +43,7 @@
 
 <div align="center" >
 <a target="_blank" href="https://www.linkedin.com/in/abdul-mateen-khilji-8a743217b/"><img src="https://img.shields.io/badge/-abdul_mateen-khilji?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5"/></a>
+<a target="_blank" href="https://www.x.com/khiljimateenn/"><img src="https://img.shields.io/badge/-abdul_mateen-khilji?style=for-the-badge&logo=x&logoColor=white&color=000000"/></a>
 <a target="_blank" href="mailto:jealousjsp@gmail.com"><img src="https://img.shields.io/badge/-jealousjsp@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a target="_blank" href="https://jealous.dev/"><img src="https://img.shields.io/badge/-jealousdev-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </a>
